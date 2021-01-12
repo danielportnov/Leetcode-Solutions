@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-An ever updating repository of my solutions to algorithm & data structure challenges on Leetcode and HackerRank
+A constantly updating repository of my solutions to algorithm & data structure challenges on Leetcode and HackerRank
 
 # What I Learned
 
